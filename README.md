@@ -12,8 +12,12 @@ I love react and writing TypeScript
 web [here](https://portfoliowebfred.vercel.app/contact)
 
 ## 🛠 Skills
-Javascript, TypeScript, ReactJS, React Native, NextJS, NodeJS, ExpressJS, Sequelize, PostgreSQL, Prisma, Redux, Jest, React-testing library, SuperTest
-
+My strong areas are Javascript, TypeScript, ReactJS, React Native, NextJS, NodeJS, ExpressJS, Sequelize, PostgreSQL, Prisma, Redux, Jest, React-testing library, SuperTest <br> <br>
+<img src="images/node.svg" width="25">
+<img src="images/git.svg" width="25">
+<img src="images/javascript.svg" width="25">
+<img src="images/react.svg" width="25">
+<img src="images/typescript.svg" width="25">
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliowebfred.vercel.app/)
@@ -24,8 +28,8 @@ Javascript, TypeScript, ReactJS, React Native, NextJS, NodeJS, ExpressJS, Sequel
 ## ⚡️ My most important projects 
 
 
-### [NFTickets](https://github.com/fedeprat/NFTickets)
- ![startingLogo](images/NFTickets.png)
+### 📜 [NFTickets](https://github.com/fedeprat/NFTickets) 
+ ![startingLogo](images/NFTickets.png) 
 
 This app is a 100% real NFT tickets store that lets you buy NFT tickets to attend an event that are also NFTs that you will hold forever in your metamask extension.
 
@@ -63,3 +67,18 @@ Franco
 Andres
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/thecandybars)
 <br>
+
+<hr/>
+
+### 📜 [Realtor Assistant](https://github.com/fedeprat/RealtorAssistant)
+
+<img src="images/RealtorAssistantConfigured.png" width="225"> <img src="images/RealtorAssistant.png" width="225">
+<br>
+RealtorAssistant is an app I made to my brother who is a real estate agent. He told me he was losing a lot of time making his WhatsApp status / instagram stories pictures of the houses he has for sale or rent. So I thought I could make an app that lets you make a 1080x1920 image containing the best pics of the house as well as some key info about it.
+<br>
+<br>
+I made this app using Expo, TypeScript, React Native, Redux, ImagePicker to administrate permissions and image upload, Keyword aware scrollView to manage keyboard behavior and React Native Navigate to go from one screen to another.
+<br>
+<br>
+🔗 [Link to Repo](https://github.com/fedeprat/RealtorAssistant) | There you will find a QR code to run the app yourself on your device
+
