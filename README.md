@@ -13,11 +13,17 @@ web [here](https://portfoliowebfred.vercel.app/contact)
 
 ## 🛠 Skills
 My strong areas are Javascript, TypeScript, ReactJS, React Native, NextJS, NodeJS, ExpressJS, Sequelize, PostgreSQL, Prisma, Redux, Jest, React-testing library, SuperTest <br> <br>
-<img src="images/node.svg" width="25">
-<img src="images/git.svg" width="25">
-<img src="images/javascript.svg" width="25">
-<img src="images/react.svg" width="25">
-<img src="images/typescript.svg" width="25">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="121">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="125">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="75">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="87">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="135">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="95">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="65">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" width="120">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="110">
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliowebfred.vercel.app/)
@@ -82,3 +88,4 @@ I made this app using Expo, TypeScript, React Native, Redux, ImagePicker to admi
 <br>
 🔗 [Link to Repo](https://github.com/fedeprat/RealtorAssistant) | There you will find a QR code to run the app yourself on your device
 
+## You can see all my projects [on my portfolio web](https://portfoliowebfred.vercel.app/) or [here in my github](https://github.com/fedeprat)
