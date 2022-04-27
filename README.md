@@ -74,7 +74,7 @@ Andres
 
 <img src="images/RealtorAssistantConfigured.png" width="225"> <img src="images/RealtorAssistant.png" width="225">
 <br>
-RealtorAssistant is a mobile app I made to my brother who is a real estate agent. He told me he was losing a lot of time making his WhatsApp status / instagram stories pictures of the houses he has for sale or rent. So I thought I could make an app that lets you make a 1080x1920 image containing the best pics of the house as well as some key info about it.
+RealtorAssistant is a mobile app I made for my brother who is a real estate agent. He told me he was losing a lot of time making his WhatsApp status / instagram stories pictures of the houses he has for sale or rent. So I thought I could make an app that lets you make a 1080x1920 image containing the best pics of the house as well as some key info about it.
 <br>
 <br>
 I made this app using Expo, TypeScript, React Native, Redux, ImagePicker to administrate permissions and image upload, Keyword aware scrollView to manage keyboard behavior and React Native Navigate to go from one screen to another.
