@@ -1,3 +1,4 @@
+
 # Hi 👋, I am Fede (Fred) Prat! 
 
 
@@ -6,7 +7,7 @@ I'm a full stack developer looking for my first fulltime job
 
 I love react and writing TypeScript 
 
-📫 If you have any question you can reach me by my 
+📫 If you have any questions you can reach me by my 
 [LinkedIn](https://www.linkedin.com/in/fred-prat/) or you can send me a message through my
 web [here](https://portfoliowebfred.vercel.app/contact)
 
@@ -21,3 +22,34 @@ Javascript, TypeScript, ReactJS, React Native, NextJS, NodeJS, ExpressJS, Sequel
 
 
 ## ⚡️ My Projects 
+
+
+### [NFTickets](https://github.com/fedeprat/NFTickets)
+
+This app is a 100% real NFT tickets store that lets you buy NFT tickets to attend an event that are also NFTs that you will hold forever in your metamask extension.
+
+You can also create your own event with a previously chosen amount of tickets for sale, and people will buy it to go to your event.
+
+All this operations are 100% real blockchain validated operations. We work with Ropsten's test network using rETH's as cryptocurrency
+
+🔗 *More information in the github repo (it is open source)* [here](https://github.com/fedeprat/NFTickets)
+
+🔗 *Deployed App:* [NFTickets](https://nftickets.netlify.app/)
+
+
+I've made this app along with
+
+Alejo
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/alejorrojas) 
+Diego 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/diegozestudio)
+Martin
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/martinsione)
+Alfredo
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/AlfredoBlanco)
+Luciano
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/LNFrettes)
+Franco
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/francoa7)
+Andres
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/thecandybars)
