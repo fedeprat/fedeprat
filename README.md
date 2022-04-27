@@ -32,7 +32,7 @@ You can also create your own event with a previously chosen amount of tickets fo
 
 All this operations are 100% real blockchain validated operations. We work with Ropsten's test network using rETH's as cryptocurrency
 
-🔗 *More information in the github repo (it is open source)* [here](https://github.com/fedeprat/NFTickets)
+🔗 *More information on the github repo (it is open source)* [here](https://github.com/fedeprat/NFTickets)
 
 🔗 *Deployed App:* [NFTickets](https://nftickets.netlify.app/)
 
@@ -41,15 +41,22 @@ I've made this app along with
 
 Alejo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/alejorrojas) 
+<br>
 Diego 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/diegozestudio)
+<br>
 Martin
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/martinsione)
+<br>
 Alfredo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/AlfredoBlanco)
+<br>
 Luciano
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/LNFrettes)
+<br>
 Franco
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/francoa7)
+<br>
 Andres
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/thecandybars)
+<br>
