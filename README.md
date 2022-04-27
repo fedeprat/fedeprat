@@ -21,16 +21,19 @@ Javascript, TypeScript, ReactJS, React Native, NextJS, NodeJS, ExpressJS, Sequel
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-prat/)
 
 
-## ⚡️ My Projects 
+## ⚡️ My most important projects 
 
 
 ### [NFTickets](https://github.com/fedeprat/NFTickets)
+ ![startingLogo](images/NFTickets.png)
 
 This app is a 100% real NFT tickets store that lets you buy NFT tickets to attend an event that are also NFTs that you will hold forever in your metamask extension.
 
 You can also create your own event with a previously chosen amount of tickets for sale, and people will buy it to go to your event.
 
 All this operations are 100% real blockchain validated operations. We work with Ropsten's test network using rETH's as cryptocurrency
+
+If you head over to quick start section you will find some videos and explanations about how to use our NFT tickets app.
 
 🔗 *More information on the github repo (it is open source)* [here](https://github.com/fedeprat/NFTickets)
 
